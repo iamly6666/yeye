@@ -1,0 +1,96 @@
+.top{
+    overflow:auto;	
+    }
+*{
+    margin:0;
+}
+.div_menu{
+    height:30px;	
+    float:right;
+    font-size:14px;
+    color:#555;
+    text-decoration:underline;
+    text-align:center;
+    line-height:35px;
+    margin-right: 5px;
+}
+.logo{
+    width:500px;
+    text-align: center;
+    margin:0 auto;
+}
+.body{
+    width:600px;
+    overflow:auto;	
+    text-align: center;
+    margin: 0 auto;
+}
+.kuang{
+    width:400px;
+    height:36px;
+    float:left;
+    border: 1px solid black;
+    text-align: center;
+    margin-left: 40px;
+}
+.button{
+    width:100px;
+    height:34px;
+    float:left;
+    border: 1px solid black;
+    margin-left:2px;
+}
+.logo1{
+    width:200px;
+    height:150px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+.op{
+    width:20%;
+    text-align: center;
+    word-spacing: 5px;
+    font-size: 20px;
+    margin:0 auto;
+}
+.ip{
+    width:25%;
+    font-size:25px;
+    text-align: center;
+    margin: 0 auto;
+}
+.footer{
+    width:450px;
+    overflow: auto;
+    text-align: center;
+    margin: 0 auto;
+}
+.iu{
+    height:40px;
+    float:left;
+    font-size:18px;
+    color:#555;
+    text-decoration:underline;
+    text-align:center;
+    line-height:35px;
+    margin-left:15px; 
+}
+.last{
+    width:700px;
+    height:40px;
+    overflow: auto;
+    text-align: center;
+    margin: 0 auto;
+
+}
+.as{
+    height:40px;
+    float:left;
+    font-size:16px;
+    color:#555;
+    text-decoration:underline;
+    text-align:center;
+    line-height:35px;
+    margin-left:15px; 
+}
